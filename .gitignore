@@ -1,0 +1,44 @@
+# Database configuration (contains sensitive credentials)
+config.php
+
+# Environment files
+.env
+.env.local
+.env.production
+
+# Database files
+*.sql
+*.db
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# PHP session files
+sessions/
+
+# Uploads directory (if you add file uploads later)
+uploads/
+
+# Cache
+cache/
+tmp/
