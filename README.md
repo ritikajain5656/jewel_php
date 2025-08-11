@@ -194,8 +194,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Project Link:** [https://github.com/yourusername/shine-jewelry](https://github.com/yourusername/shine-jewelry)
 - **Email:** shine@gmail.com
-- **Phone:** 9668365655
+- **Phone:** 1234567890
 
 ---
 
-⭐ **Star this repository if you found it helpful!**
