@@ -1,4 +1,6 @@
-# ✨ Shine Jewelry - PHP Authentication System
+<img width="1468" height="836" alt="Image" src="https://github.com/user-attachments/assets/0784d634-04df-481b-be3c-a0f6d5f446c9" />
+
+<img width="1468" height="836" alt="Image" src="https://github.com/user-attachments/assets/b0a37e96-8dd1-496f-8605-4dadfeade4cd" /># ✨ Shine Jewelry - PHP Authentication System
 
 A beautiful and modern jewelry e-commerce website with a complete PHP-based user authentication system, featuring secure login/registration, user dashboard, and responsive design.
 
